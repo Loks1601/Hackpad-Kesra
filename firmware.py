@@ -1,7 +1,11 @@
 import board
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
+from kmk.scanners import DiodeOrientation
 from kmk.scanners.keypad import KeysScanner
+from kmk.modules.layers import Layers
+from kmk.modules.encoder import EncoderHandler
+from kmk.extensions.display import Display, TextEntry, ImageEntry
 
 # ----------------------------
 # 1. KEYBOARD SETUP
@@ -47,3 +51,4 @@ keyboard.keymap = [
 # ----------------------------
 if __name__ == '__main__':
     keyboard.go()
+
