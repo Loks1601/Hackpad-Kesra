@@ -20,10 +20,13 @@ The design focuses on: (KEY FEATURES)
 
   PCB WIREFRAME -   
 ![PCB](https://github.com/user-attachments/assets/b3f5a71b-acb0-4418-9d3f-568212986397)
+<img width="1490" height="850" alt="PCB WIREFRAME" src="https://github.com/user-attachments/assets/73981be8-94ab-43ab-9839-e0db769f876e" />
+
 
   3D CASE - 
 ![FRONT](https://github.com/user-attachments/assets/e9776af0-64b1-4215-bee7-522b840e2f3e)
 ![base](https://github.com/user-attachments/assets/0deac96d-bd5e-46fa-a106-dae372ef73e4)
+
 
 
 
