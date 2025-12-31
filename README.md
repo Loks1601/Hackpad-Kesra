@@ -27,6 +27,8 @@ The design focuses on: (KEY FEATURES)
 ![FRONT](https://github.com/user-attachments/assets/e9776af0-64b1-4215-bee7-522b840e2f3e)
 ![base](https://github.com/user-attachments/assets/0deac96d-bd5e-46fa-a106-dae372ef73e4)
 
+<img width="655" height="540" alt="image" src="https://github.com/user-attachments/assets/d869d5ee-90c4-44f7-9f34-f493c2a04ea9" />
+
 
 
 
