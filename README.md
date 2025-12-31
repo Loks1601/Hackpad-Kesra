@@ -1,3 +1,7 @@
+
+  HACKPAD - FOR GAMING AND SIMULATIONS 
+
+
 This project is a compact RGB macro pad built around the Seeed Studio XIAO RP2040.
 It uses diode-isolated push buttons for reliable key detection and SK6812 Mini addressable RGB LEDs for per-key lighting effects.
 
@@ -28,6 +32,8 @@ The design focuses on: (KEY FEATURES)
 ![base](https://github.com/user-attachments/assets/0deac96d-bd5e-46fa-a106-dae372ef73e4)
 
 <img width="655" height="540" alt="image" src="https://github.com/user-attachments/assets/d869d5ee-90c4-44f7-9f34-f493c2a04ea9" />
+<img width="737" height="548" alt="image" src="https://github.com/user-attachments/assets/2b65e160-ae38-4fdb-b374-cc98186315ad" />
+
 
 
 
